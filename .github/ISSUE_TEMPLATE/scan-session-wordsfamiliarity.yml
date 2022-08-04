@@ -1,0 +1,93 @@
+name: Scan session words familiarity
+description: log session with words familiarity task, ses-001 to ses-005
+title: "[SCAN] sub-xx_ses-yyy"
+labels: [scan]
+assignees: 
+  - bpinsard
+body:
+- type: markdown
+  attributes:
+    value: "# general infos"
+
+- type: checkboxes
+  id: setup
+  attributes:
+    label: Setup
+    description: check all the equipment that was set up
+    options:
+      - label: biopac
+      - label: eyetracker
+      - label: game controller
+
+- type: textarea
+  attributes:
+    label: general notes
+
+
+- type: markdown
+  attributes:
+    value: "## task-wordsfamiliarity_run-01"
+- type: checkboxes
+  attributes:
+    label: task-wordsfamiliarity_run-01 completion  
+    options:
+      - label: series was completed.
+- type: dropdown
+  attributes:
+    label: task-wordsfamiliarity_run-01 issues
+    multiple: true
+    options:
+      - sleep
+      - excessive motion
+      - eyetracking issues (crash, pupil loss)
+      - physio signal quality issue
+      - controller issues
+- type: textarea
+  attributes:
+    label: task-wordsfamiliarity_run-01 notes
+
+- type: markdown
+  attributes:
+    value: "## task-wordsfamiliarity_run-02"
+- type: checkboxes
+  attributes:
+    label: task-wordsfamiliarity_run-02 completion  
+    options:
+      - label: series was completed.
+- type: dropdown
+  attributes:
+    label: task-wordsfamiliarity_run-02 issues
+    multiple: true
+    options:
+      - sleep
+      - excessive motion
+      - eyetracking issues (crash, pupil loss)
+      - physio signal quality issue
+      - controller issues
+- type: textarea
+  attributes:
+    label: task-wordsfamiliarity_run-02 notes
+
+
+
+- type: markdown
+  attributes:
+    value: "## task-wordsfamiliarity_run-03"
+- type: checkboxes
+  attributes:
+    label: task-wordsfamiliarity_run-03 completion  
+    options:
+      - label: series was completed.
+- type: dropdown
+  attributes:
+    label: task-wordsfamiliarity_run-03 issues
+    multiple: true
+    options:
+      - sleep
+      - excessive motion
+      - eyetracking issues (crash, pupil loss)
+      - physio signal quality issue
+      - controller issues
+- type: textarea
+  attributes:
+    label: task-wordsfamiliarity_run-03 notes
