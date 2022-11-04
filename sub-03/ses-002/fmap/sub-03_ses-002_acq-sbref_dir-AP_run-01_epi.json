@@ -33,9 +33,9 @@
   "InstitutionName": "IUGM",
   "InstitutionalDepartmentName": "Department",
   "IntendedFor": [
-    "ses-002/func/sub-03_ses-002_task-triplets_run-01_part-mag_bold.nii.gz",
-    "ses-002/func/sub-03_ses-002_task-triplets_run-02_part-mag_bold.nii.gz",
-    "ses-002/func/sub-03_ses-002_task-triplets_run-03_part-mag_bold.nii.gz"
+    "ses-002/func/sub-03_ses-002_task-wordsfamiliarity_run-01_part-mag_bold.nii.gz",
+    "ses-002/func/sub-03_ses-002_task-wordsfamiliarity_run-02_part-mag_bold.nii.gz",
+    "ses-002/func/sub-03_ses-002_task-wordsfamiliarity_run-03_part-mag_bold.nii.gz"
 ],
   "MRAcquisitionType": "2D",
   "MagneticFieldStrength": 3,
