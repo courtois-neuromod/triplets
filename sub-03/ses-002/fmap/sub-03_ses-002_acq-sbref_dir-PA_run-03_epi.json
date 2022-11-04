@@ -33,7 +33,7 @@
   "InstitutionName": "IUGM",
   "InstitutionalDepartmentName": "Department",
   "IntendedFor": [
-    "ses-002/func/sub-03_ses-002_task-triplets_run-03_part-mag_bold.nii.gz"
+    "ses-002/func/sub-03_ses-002_task-wordsfamiliarity_run-03_part-mag_bold.nii.gz"
 ],
   "MRAcquisitionType": "2D",
   "MagneticFieldStrength": 3,
@@ -50,7 +50,7 @@
   "PhaseResolution": 1,
   "PixelBandwidth": 2290,
   "ProcedureStepDescription": "language^triplets",
-  "ProtocolName": "func_task-triplets_run-03",
+  "ProtocolName": "func_task-wordsfamiliarity_run-03",
   "PulseSequenceDetails": "%CustomerSeq%\\cmrr_mbep2d_bold",
   "ReceiveCoilActiveElements": "HC1-7;NC1,2",
   "ReceiveCoilName": "HeadNeck_64",
@@ -61,7 +61,7 @@
   "ScanningSequence": "EP",
   "SequenceName": "epfid2d1_104",
   "SequenceVariant": "SK\\SS",
-  "SeriesDescription": "func_task-triplets_run-03_SBRef",
+  "SeriesDescription": "func_task-wordsfamiliarity_run-03_SBRef",
   "SeriesNumber": 16,
   "ShimSetting": [632, -7208, -8800, 696, 75, 8, 10, -5],
   "SliceThickness": 2,
