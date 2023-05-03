@@ -6,6 +6,7 @@
 194f4028-5191-4974-8fc3-2d7ebb832ae9 bpinsard@elm.criugm.qc.ca:/tmp/tmpd6i4xt2e timestamp=1664806383.840744503s
 1998680a-b8ce-4f34-a477-a468c21f2391 bpinsard@elm.criugm.qc.ca:/tmp/tmpkecdx90o timestamp=1660674885.053524498s
 1aed91bd-6f58-4f31-a3a5-03cacb3510c4 bpinsard@elm.criugm.qc.ca:/scratch/tmp/tmpacrm2r0r timestamp=1683118955.784639523s
+1af0cfac-e8fd-4032-aebe-2432c9cc75e8 bpinsard@elm.criugm.qc.ca:/scratch/tmp/tmpzdxk9bjt timestamp=1683120354.02835321s
 1d2d77c2-10a5-410f-99d1-43d8eeedbe1c bpinsard@elm.criugm.qc.ca:/tmp/tmprq0ucq9s timestamp=1660155980.80940905s
 1edd1869-89dc-4731-ac1a-efc9679c0bca bpinsard@elm.criugm.qc.ca:/tmp/tmpy9vl14ml timestamp=1664808326.227866536s
 2165c090-69d3-43c5-9ee0-5a8b078e60dd bpinsard@elm.criugm.qc.ca:/tmp/tmpy3w5mr8u timestamp=1664806272.569033754s
@@ -16,6 +17,7 @@
 27b9fd36-5e53-4b82-940a-124b913bff00 ria-beluga-storage timestamp=1660158992.676393553s
 2b3b631c-1d95-47f4-a17c-750f75df74ec bpinsard@elm.criugm.qc.ca:/scratch/tmp/tmp4artaok0 timestamp=1683119562.625581169s
 34b41a1e-b4c8-4d83-b57d-3dcc521ff441 bpinsard@beluga1.int.ets1.calculquebec.ca:/scratch/bpinsard/triplets.fmriprep/sourcedata/cneuromod.triplets timestamp=1660333279.327389909s
+3703efde-5cf1-4936-9390-0a116f7e1261 bpinsard@elm.criugm.qc.ca:/scratch/tmp/tmp5ppabmsw timestamp=1683120063.796684417s
 37353434-67ae-4385-8366-5b383ca9ce3c bpinsard@elm.criugm.qc.ca:/tmp/tmp8sn5jsdt timestamp=1664806325.65525754s
 3b269769-bfea-4e4f-9020-1ef6058a5dca bpinsard@elm.criugm.qc.ca:/tmp/tmp3waezir4 timestamp=1664805337.519682002s
 3c716ec2-aa02-4976-ab70-31ac580ecfc2 bpinsard@elm.criugm.qc.ca:/scratch/tmp/tmpa6i967v_ timestamp=1683118982.042916152s
@@ -65,6 +67,7 @@ a5ff89b5-b0bc-4491-b496-bffd5503bd9b bpinsard@elm.criugm.qc.ca:/scratch/tmp/tmp1
 acd16736-9cb0-49f6-abcd-c5ca28f5ad9d bpinsard@elm.criugm.qc.ca:/scratch/tmp/tmpeba74jbe timestamp=1667504127.445128891s
 ad782f0d-b53a-4447-a44c-72b4d12afc37 bpinsard@elm.criugm.qc.ca:/scratch/tmp/tmpv91ekmz0 timestamp=1683118873.046551096s
 bd65b47f-97d7-4249-99ae-b267b89a7255 bpinsard@elm.criugm.qc.ca:/tmp/tmp7ctulzln timestamp=1664805389.474067092s
+bd8b5c73-5227-4aee-bb28-25475a60f50b bpinsard@elm.criugm.qc.ca:/scratch/tmp/tmpifsdah1u timestamp=1683119994.888667989s
 c034477c-549d-4031-985e-58e1143acd86 ria-sequoia-storage timestamp=1659619237.147385444s
 c6f79a51-d97e-48f8-93c4-db1a7296ee06 bpinsard@elm.criugm.qc.ca:/scratch/tmp/tmpt3tr093q timestamp=1667505127.859639427s
 cb75e7bc-a32a-4136-ad32-a79ec7cec3f6 bpinsard@elm.criugm.qc.ca:/scratch/tmp/tmprsl5vx8n timestamp=1667504059.536488229s
@@ -77,9 +80,12 @@ da5c0215-43c0-4429-92bb-bd57facce2c4 bpinsard@elm.criugm.qc.ca:/scratch/tmp/tmpu
 e33a2c50-3edd-414e-9a08-388249ad6652 bpinsard@elm.criugm.qc.ca:/scratch/tmp/tmp43st0lys timestamp=1667505943.4180625s
 e7c80337-abcf-4932-96b0-ffc4340c46da bpinsard@elm.criugm.qc.ca:/scratch/tmp/tmpj3anx4ml timestamp=1667505490.951918806s
 edb0318a-1f5d-45c4-b552-7d97bd2875fb bpinsard@elm.criugm.qc.ca:/tmp/tmpf0lb_8np timestamp=1660142552.781630694s
+efb9343e-93e9-41db-a8c5-02041c637490 bpinsard@elm.criugm.qc.ca:/scratch/tmp/tmpoonez8e0 timestamp=1683120232.427749214s
+efec7b56-5d46-40f5-b379-a155e72e8540 bpinsard@elm.criugm.qc.ca:/scratch/tmp/tmpf70pntw3 timestamp=1683120293.755182529s
 f18c3820-411e-4288-8c68-8a1b855d4545 bpinsard@elm.criugm.qc.ca:/tmp/tmptycdrlfl timestamp=1664806361.394484211s
 f5e954b1-d9c9-437a-80c8-4023407625ee bpinsard@elm.criugm.qc.ca:/scratch/tmp/tmpaz111jc2 timestamp=1667505599.755622912s
 f5f7373d-bca1-47c5-ad28-4249d84faffe unfs3.cneuromod.triplets.mri timestamp=1667420771.617323919s
 f7382d55-6e77-48bf-8a28-4abf7fd86d7d bpinsard@elm.criugm.qc.ca:/scratch/tmp/tmpkwli2nos timestamp=1667504721.339879926s
 f9da2aca-eafd-4e2b-8681-83ba1f4b89e4 bpinsard@elm.criugm.qc.ca:/tmp/tmpjm8rvhtc timestamp=1664806901.464524587s
 ff82f51f-ec0d-4ef9-8979-43ea0f7a3591 bpinsard@elm.criugm.qc.ca:/scratch/tmp/tmpq_kmv1tb timestamp=1683119423.505109277s
+ff9769b6-4196-48a6-bd8d-069e267a2a0a bpinsard@elm.criugm.qc.ca:/scratch/tmp/tmpj5acxtvj timestamp=1683119923.887877399s
