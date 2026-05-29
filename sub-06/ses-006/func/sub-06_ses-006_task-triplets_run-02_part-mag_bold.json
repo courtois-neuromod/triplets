@@ -2,6 +2,7 @@
   "AcquisitionMatrixPE": 104,
   "AcquisitionNumber": 1,
   "AcquisitionTime": "15:29:51.955000",
+  "B0FieldSource": "sub_06_ses_006_task_triplets_run_02",
   "BandwidthPerPixelPhaseEncode": 17.17,
   "BaseResolution": 104,
   "BidsGuess": [
