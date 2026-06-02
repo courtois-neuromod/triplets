@@ -74,5 +74,6 @@
   "TaskName": "triplets",
   "TotalReadoutTime": 0.0576811,
   "TxRefAmp": 240.537,
-  "WipMemBlock": "67a2d35d-f5f9-4e0a-8ea4-92b6eea02566||Sequence: R017 ve11c/master r/75a17815+; Jun 28 2022 16:32:11 by eja"
+  "WipMemBlock": "67a2d35d-f5f9-4e0a-8ea4-92b6eea02566||Sequence: R017 ve11c/master r/75a17815+; Jun 28 2022 16:32:11 by eja",
+  "dcmmeta_shape": [104, 104, 60, 248]
 }

@@ -74,5 +74,6 @@
   "TaskName": "wordsfamiliarity",
   "TotalReadoutTime": 0.0576811,
   "TxRefAmp": 218.349,
-  "WipMemBlock": "01103e57-3ed0-46a2-b351-f41b198b8423||Sequence: R017 ve11c/master r/75a17815+; Jun 28 2022 16:32:11 by eja"
+  "WipMemBlock": "01103e57-3ed0-46a2-b351-f41b198b8423||Sequence: R017 ve11c/master r/75a17815+; Jun 28 2022 16:32:11 by eja",
+  "dcmmeta_shape": [104, 104, 60, 221]
 }
